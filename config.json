@@ -1,0 +1,11 @@
+{
+	"configVersion": "0.0.1",
+	"log": {
+		"level": "debug"
+	},
+	"osc": {
+		"image":{
+			"listenPort": 39970
+		}
+	}
+}
