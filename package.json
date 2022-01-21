@@ -4,7 +4,7 @@
   "description": "",
   "main": "osc-rotate.js",
   "dependencies": {
-    "log4js": "^4.3.0",
+    "log4js": "^6.4.0",
     "node-osc": "git://github.com/thakyuu/node-osc.git",
     "sharp": "^0.22.1"
   },
