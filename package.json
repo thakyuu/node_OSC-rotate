@@ -6,7 +6,7 @@
   "dependencies": {
     "log4js": "^4.3.0",
     "node-osc": "git://github.com/thakyuu/node-osc.git",
-    "sharp": "^0.22.1"
+    "sharp": "^0.30.5"
   },
   "devDependencies": {},
   "scripts": {
